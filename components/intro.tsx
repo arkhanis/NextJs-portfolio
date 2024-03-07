@@ -33,7 +33,7 @@ export default function Intro() {
             }}
           >
             <Image
-              imageUrl: corpcommentImg,
+              src={fotoProfile}
               alt="Cesar Casanova portrait"
               width="192"
               height="192"
