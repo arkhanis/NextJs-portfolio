@@ -1,7 +1,6 @@
 "use client";
 
 import Image from "next/image";
-import profileImg from "@/public/foto_profile.png";
 import React from "react";
 import { motion } from "framer-motion";
 import Link from "next/link";
